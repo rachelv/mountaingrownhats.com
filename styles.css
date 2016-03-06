@@ -8,8 +8,13 @@ h3 {
     font-size: 24pt;
 }
 
-#top-bar-strip, #email-strip, #footer-strip {
+#top-bar-strip, #email-strip, #footer-strip, .mountains {
     background-color: #E4E4E4;
+}
+.mountains .mountain {
+    margin-top: -20px;
+    height: 20px;
+    background: #E4E4E4 url('img/mountains.png') no-repeat right bottom;
 }
 #top-bar-strip p, #footer-strip p {
     padding-top: 1rem;
