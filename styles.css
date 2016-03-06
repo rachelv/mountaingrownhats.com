@@ -1,0 +1,60 @@
+h1, #brand-strip h3{
+    font-family: 'Schoolbell', cursive;
+}
+h1 {
+    font-size: 42pt;
+}
+h3 {
+    font-size: 24pt;
+}
+
+#top-bar-strip, #email-strip, #footer-strip {
+    background-color: #E4E4E4;
+}
+#top-bar-strip p, #footer-strip p {
+    padding-top: 1rem;
+}
+
+#brand-strip .logo, #brand-strip .name {
+    padding-top: 2rem;
+    padding-bottom: 1.5rem;
+}
+#brand-strip h3 {
+    padding: 1rem 0 2rem 0;
+}
+
+#email-strip h4 {
+    padding: 2rem 0 0.5rem 0;
+}
+#email-strip form {
+    padding: 0.5rem 0 1.5rem 0;
+}
+
+#hats-strip h3 {
+    padding: 1.5rem 0 0.5rem 0;
+}
+img.hat {
+    width: 100%;
+}
+.card {
+    margin-top: 1rem;
+    border-color: #999;
+}
+.card-block {
+    padding: 0;
+}
+h4.card-title {
+    padding-top: 0.75rem;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+p.card-text {
+    padding: 0.25rem 0 0.75rem 0;
+}
+.info p {
+    padding-top: 1rem;
+}
+
+#footer-strip {
+    margin-top: 2rem;
+}
