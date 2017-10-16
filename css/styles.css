@@ -1,0 +1,22 @@
+.bg-image-full {
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+img.logo {
+	width: 175px;
+	height: 175px;
+	background-color: #fff;
+}
+
+.footer a {
+	color: #fff;
+}
+
+.hero {
+	padding: 5rem 0; 
+	background-image: url('hero.jpg');
+}
